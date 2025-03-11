@@ -1,7 +1,6 @@
 
 
 import type { Metadata } from "next";
-import "./globals.css";
 import { MantineProvider } from "@mantine/core";
 import '@mantine/core/styles.css';
 import { Providers } from "./providers/providers";
